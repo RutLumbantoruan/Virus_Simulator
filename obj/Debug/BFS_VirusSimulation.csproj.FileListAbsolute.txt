@@ -1,0 +1,38 @@
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.AssemblyReference.cache
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.SuggestedBindingRedirects.cache
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.Properties.Resources.resources
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.Welcome.resources
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.GenerateResource.cache
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.CoreCompileInputs.cache
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\BFS_VirusSimulation.exe.config
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\BFS_VirusSimulation.exe
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\BFS_VirusSimulation.pdb
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.dll
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.Drawing.dll
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.xml
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.Drawing.xml
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.GrafForm.resources
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.CopyComplete
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.exe
+F:\SEMESTER 5 IT DEL\PROYEK SEMESTER 5\ALU\ProyekALU\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.pdb
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\BFS_VirusSimulation.exe.config
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\BFS_VirusSimulation.exe
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\BFS_VirusSimulation.pdb
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.xml
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.GrafForm.resources
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.Properties.Resources.resources
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.Welcome.resources
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.csproj.CopyComplete
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.exe
+C:\Users\Lenovo\Documents\PERKULIAHAN\BFS_VirusSimulation\obj\Debug\BFS_VirusSimulation.pdb
